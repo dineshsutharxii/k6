@@ -1,0 +1,6 @@
+What is k6 ?
+- open source load testing tool
+- formerly known as Load Impact
+- Go and JavaScript
+
+Features
