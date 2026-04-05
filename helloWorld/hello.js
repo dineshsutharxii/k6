@@ -13,3 +13,4 @@ export default function(){
     console.log(res.status);
     sleep(5);
 }
+
